@@ -1,4 +1,4 @@
-# Cars_Dataset_Analysis
+# Cars Dataset Analysis Report
 
 # 📌 Project Overview
 
@@ -30,3 +30,11 @@ The dashboard includes the following visuals:
 <p align="center">
   <img src="dashboard.png" alt="Dashboard Preview" width="700"/>
 </p>
+
+# 👩‍💻 Author
+
+Marsha Sharma
+📧 marshasharma2004@gmail.com / (marsha_sharmacse2023@msit.edu.in)
+
+# 🔗 Connect with Me  
+[🌐 LinkedIn](https://www.linkedin.com/in/marsha-sharma-8b99b42b5/) | [💻 GitHub](https://github.com/04Marsha)
