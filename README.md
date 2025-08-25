@@ -27,14 +27,15 @@ The dashboard includes the following visuals:
 
 # 🖼️ Dashboard Preview
 
-<p align="center">
+<p align="left">
   <img src="dashboard.png" alt="Dashboard Preview" width="700"/>
 </p>
 
 # 👩‍💻 Author
 
 Marsha Sharma <br>
-📧 marshasharma2004@gmail.com / (marsha_sharmacse2023@msit.edu.in)
+📧 marshasharma2004@gmail.com <br>
+Institutional Mail : marsha_sharmacse2023@msit.edu.in
 
 # 🔗 Connect with Me  
 [🌐 LinkedIn](https://www.linkedin.com/in/marsha-sharma-8b99b42b5/) | [💻 GitHub](https://github.com/04Marsha)
