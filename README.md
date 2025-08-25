@@ -28,5 +28,5 @@ The dashboard includes the following visuals:
 # 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="pictures/dashboard.png" alt="Dashboard Preview" width="700"/>
+  <img src="dashboard.png" alt="Dashboard Preview" width="700"/>
 </p>
