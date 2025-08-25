@@ -33,7 +33,7 @@ The dashboard includes the following visuals:
 
 # 👩‍💻 Author
 
-Marsha Sharma
+Marsha Sharma <br>
 📧 marshasharma2004@gmail.com / (marsha_sharmacse2023@msit.edu.in)
 
 # 🔗 Connect with Me  
